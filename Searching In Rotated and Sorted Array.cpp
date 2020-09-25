@@ -40,6 +40,6 @@ int main(void)
 
     }
 
-    cout<<ans1;
+    cout<<"Element found at index: "<<ans1;
     return 0; 
 }
